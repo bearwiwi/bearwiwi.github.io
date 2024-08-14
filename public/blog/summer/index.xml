@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Summer on ʕ•ᴥ•ʔ Bear Blog</title>
-    <link>http://localhost:3002/blog/summer/</link>
+    <link>http://localhost:3003/blog/summer/</link>
     <description>Recent content in Summer on ʕ•ᴥ•ʔ Bear Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Bear.</copyright>
     <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:3002/blog/summer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3003/blog/summer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>超热的夏季</title>
-      <link>http://localhost:3002/%E8%B6%85%E7%83%AD%E7%9A%84%E5%A4%8F%E5%AD%A3/</link>
+      <link>http://localhost:3003/%E8%B6%85%E7%83%AD%E7%9A%84%E5%A4%8F%E5%AD%A3/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3002/%E8%B6%85%E7%83%AD%E7%9A%84%E5%A4%8F%E5%AD%A3/</guid>
+      <guid>http://localhost:3003/%E8%B6%85%E7%83%AD%E7%9A%84%E5%A4%8F%E5%AD%A3/</guid>
       <description>空调可能是我这个季节最忠实的伙伴。&#xA;明天的工作还将继续，却没有了之前的激情。</description>
     </item>
   </channel>
