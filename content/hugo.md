@@ -7,6 +7,8 @@ menu = "main"
 
 > 人生很短暂，如何度过。
 
+![758c1cf1-cad6-417b-9e0b-43df791acd19的副本.jpeg](https://typehut.s3.amazonaws.com/uploads/6816/05dbd93e-e398-4c16-86b4-f7f6f5b30899-758c1cf1-cad6-417b-9e0b-43df791acd19%E7%9A%84%E5%89%AF%E6%9C%AC.jpeg)
+
 Today, I want to chat about something that's been on my mind lately: time. You know, that elusive thing that seems to slip through our fingers like sand. As we grow older, our relationship with time changes. We become more aware of how quickly it passes and how nothing stays the same forever. It's a bit of a bummer, I know, but stick with me, it's not all doom and gloom!
 
 When we're kids, we feel like time is limitless. We have all the time in the world to go where we want, do what we want, be who we want. But as we get older, we become acutely aware of how quickly time is passing us by. It's like one moment you're building blanket forts with your siblings, and the next, you're graduating high school and moving out of the house.
@@ -96,5 +98,4 @@ We can learn to regulate our own predictions, maintaining composure in stressful
 Ultimately, the goal is not to become Machiavellian puppeteers, bending others to our will. Rather, it is to become more skilful stewards of our own minds and more compassionate actors in the grand social dance of life. By appreciating the predictive brain, in all its power and potential pitfalls, we take a significant step towards greater self-awareness, more fulfilling relationships, and a more positive impact in whatever sphere we find ourselves.
 
 The journey is not always easy, but it is undeniably worthwhile. By staying attuned to our own emotions, remaining curious about the feelings of others, and consistently challenging our reflexive assumptions, we can navigate even the most complex social labyrinths with grace, empathy, and wisdom. So, dear reader, embrace the power of your predictive brain, and step forward into a world of richer connections and more meaningful influence.
-
 
